@@ -1,3 +1,3 @@
 # Spring-boot-rest-project
 
-THis are new changes.
+These are new changes.
